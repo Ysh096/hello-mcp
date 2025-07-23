@@ -1,2 +1,11 @@
 # hello-mcp
-Repository created using MCP tool as requested.
+
+이 레포지토리는 mcp tool을 사용해 자동으로 생성되었습니다.
+
+## 소개
+- 깃허브 API와 mcp tool의 연동 테스트용 저장소입니다.
+- 다양한 자동화 실습에 활용할 수 있습니다.
+
+---
+
+문의: Ysh096
